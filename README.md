@@ -25,11 +25,11 @@ Key Columns       Order ID, Order Date, Ship Mode, Customer Name, Segment, State
 
 # Tools & Technologies
 
-Tool               |         Purpose
-Microsoft Excel    |   Dashboard design, data cleaning, and all visualizations
-Excel Pivot Tables | Data aggregation by category, region, customer, and time
-Excel Charts       | Bar charts, line charts, pie charts, and area charts
-Excel Slicers      | Interactive filters for Category and Year
+|        Tool         |         Purpose                                           |
+|  Microsoft Excel    |   Dashboard design, data cleaning, and all visualizations |
+|  Excel Pivot Tables | Data aggregation by category, region, customer, and time  |
+|  Excel Charts       | Bar charts, line charts, pie charts, and area charts      | 
+|  Excel Slicers      | Interactive filters for Category and Year                 |
 
 # Methods
 
