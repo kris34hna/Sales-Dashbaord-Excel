@@ -19,9 +19,10 @@ Analyze monthly sales patterns to support inventory and staffing decisions
 
 # Dataset
 
-Property      |     Details
-NameSample      Superstore Dataset 
-Key Columns       Order ID, Order Date, Ship Mode, Customer Name, Segment, State, Category, Sub-Category, Sales, Quantity, Discount, Profit
+|     Property      |     Details         |
+|-------------------|---------------------|
+|    NameSample     |  Superstore Dataset |
+|    Key Columns    |  Order ID, Order Date, Ship Mode, Customer Name, Segment, State, Category, Sub-Category, Sales, Quantity, Discount, Profit |
 
 # Tools & Technologies
 
@@ -33,21 +34,21 @@ Key Columns       Order ID, Order Date, Ship Mode, Customer Name, Segment, State
 |  Excel Slicers      | Interactive filters for Category and Year                 |
 
 # Methods
-
-Data Import      | Loaded the raw CSV into Excel and formatted it as a structured Table
-Data Cleaning    | Removed duplicates, fixed date formats, filled missing values, and standardized category names
-Pivot Tables     | Created multiple pivot tables to summarize Sales, Profit, and Count by Category, Sub-Category, State, Customer, and Month
-Charts           | Built linked charts from pivot tables (bar, line, pie, area) directly on the dashboard sheet
-Slicers          | Added Category and Year slicers connected to all pivot tables for cross-filtering
+|---------------------|---------------------------------------------------------------------|
+|    Data Import      | Loaded the raw CSV into Excel and formatted it as a structured Table|
+|    Data Cleaning    | Removed duplicates, fixed date formats, filled missing values, and standardized category names|
+|    Pivot Tables     | Created multiple pivot tables to summarize Sales, Profit, and Count by Category, Sub-Category, State, Customer, and Month|
+|    Charts           | Built linked charts from pivot tables (bar, line, pie, area) directly on the dashboard sheet|
+|    Slicers          | Added Category and Year slicers connected to all pivot tables for cross-filtering |
 
 # Key Insights
 
-1 Phones are the highest revenue-generating sub-category at $330,007, closely followed by Chairs ($328,167).
-2 Technology consistently shows the steepest profit growth year-over-year from 2014 to 2017.
-3 California dominates sales by state, reaching up to $457,687 in total sales.
-4 The Top 5 customers collectively contribute a significant share of total profit, highlighting the importance of key account management.
-5 Monthly sales peak sharply toward Q4 (November–December), suggesting strong seasonal demand.
-6 Furniture shows relatively flat profit growth despite high sales volume, indicating margin compression
+1 Phones are the highest revenue-generating sub-category at $330,007, closely followed by Chairs ($328,167).  
+2 Technology consistently shows the steepest profit growth year-over-year from 2014 to 2017.  
+3 California dominates sales by state, reaching up to $457,687 in total sales.  
+4 The Top 5 customers collectively contribute a significant share of total profit, highlighting the importance of key account management.  
+5 Monthly sales peak sharply toward Q4 (November–December), suggesting strong seasonal demand.  
+6 Furniture shows relatively flat profit growth despite high sales volume, indicating margin compression.  
 
 # Dashboard / Output
 
