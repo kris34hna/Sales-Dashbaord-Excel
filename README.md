@@ -34,6 +34,8 @@ Analyze monthly sales patterns to support inventory and staffing decisions
 |  Excel Slicers      | Interactive filters for Category and Year                 |
 
 # Methods
+
+|     Methods         |                         Purpose                                     |
 |---------------------|---------------------------------------------------------------------|
 |    Data Import      | Loaded the raw CSV into Excel and formatted it as a structured Table|
 |    Data Cleaning    | Removed duplicates, fixed date formats, filled missing values, and standardized category names|
@@ -43,12 +45,12 @@ Analyze monthly sales patterns to support inventory and staffing decisions
 
 # Key Insights
 
-1 Phones are the highest revenue-generating sub-category at $330,007, closely followed by Chairs ($328,167).  
-2 Technology consistently shows the steepest profit growth year-over-year from 2014 to 2017.  
-3 California dominates sales by state, reaching up to $457,687 in total sales.  
-4 The Top 5 customers collectively contribute a significant share of total profit, highlighting the importance of key account management.  
-5 Monthly sales peak sharply toward Q4 (November–December), suggesting strong seasonal demand.  
-6 Furniture shows relatively flat profit growth despite high sales volume, indicating margin compression.  
+1. Phones are the highest revenue-generating sub-category at $330,007, closely followed by Chairs ($328,167).  
+2. Technology consistently shows the steepest profit growth year-over-year from 2014 to 2017.  
+3. California dominates sales by state, reaching up to $457,687 in total sales.  
+4. The Top 5 customers collectively contribute a significant share of total profit, highlighting the importance of key account management.  
+5. Monthly sales peak sharply toward Q4 (November–December), suggesting strong seasonal demand.  
+6. Furniture shows relatively flat profit growth despite high sales volume, indicating margin compression.  
 
 # Dashboard / Output
 
