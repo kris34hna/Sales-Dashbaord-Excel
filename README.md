@@ -55,12 +55,13 @@ Slicers          | Added Category and Year slicers connected to all pivot tables
 
 The Excel dashboard includes the following panels:
 
-PanelChart                     |    Type                |           Description
-Sales By Category              | Horizontal Bar Chart   |  Ranks all sub-categories by total sales
-Profit Gained Over Time        | Line Chart             |  Tracks profit trends for each category (2014–2017)
-Sales By State                 | Filled Map Chart       |  Shows sales intensity across US states
-Top 5 Customers Making Profit  | Pie Chart              |  Highlights the highest-profit customers
-Monthly Sales                  | Area Chart             |  Reveals seasonal sales patterns across the year
+|             PanelChart           |         Type           |                    Description                       |
+|----------------------------------|------------------------|------------------------------------------------------|
+|   Sales By Category              | Horizontal Bar Chart   |  Ranks all sub-categories by total sales             |
+|   Profit Gained Over Time        | Line Chart             |  Tracks profit trends for each category (2014–2017)  |
+|   Sales By State                 | Filled Map Chart       |  Shows sales intensity across US states              |
+|   Top 5 Customers Making Profit  | Pie Chart              |  Highlights the highest-profit customers             |
+|   Monthly Sales                  | Area Chart             |  Reveals seasonal sales patterns across the year     |
 
 
 # Results & Conclusion
