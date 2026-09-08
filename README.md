@@ -72,7 +72,13 @@ The Excel dashboard includes the following panels:
 The Superstore Sales Dashboard successfully surfaces key business trends hidden within raw transactional data. The analysis confirms that Technology is the most profitable category, Q4 seasonality is a significant revenue driver, and geographic concentration in California, New York, and Texas presents both opportunity and risk. The dashboard empowers decision-makers to act on data rather than intuition.
 
 # Author & Contact
-KRISHNA
 
-LinkedIn: https://www.linkedin.com/in/krishna-krishna-26a106231/
+| | |
+|--|--|
+|**Name** | KRISHNA |
+|**LinkedIn** | www.linkedin.com/in/krishna-prajapati-26a106231 |
+|**GitHub** | https://github.com/ |
+
+
+⭐ **If you found this project helpful, consider giving it a star!**
 
